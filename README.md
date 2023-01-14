@@ -47,7 +47,7 @@ Resp: Deu um pouco de trabalho inicialmente, mas os gráficos conseguiram reflet
 
 Resp: Aqui está \o/
 
-![alt text]https://user-images.githubusercontent.com/49326591/212445721-4e48fa65-ea55-4a51-b3ad-95cb3f712a2a.png
+![alt text](https://user-images.githubusercontent.com/49326591/212445721-4e48fa65-ea55-4a51-b3ad-95cb3f712a2a.png)
 
 ----------------------------------------------------------------------
 
